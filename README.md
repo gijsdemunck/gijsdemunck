@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gijsdemunck
+- 👀 I’m interested in Gliding, programming and AI
+- 🌱 I’m currently learning C++
+- 📫 you can reach me at gijs.eend@gmail.com
+- 😄 Pronouns: he/him
